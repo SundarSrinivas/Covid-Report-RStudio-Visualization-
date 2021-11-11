@@ -10,3 +10,5 @@ The questions answered via visualization and graphical representation are:
 2)How to visualize the total number of cases, number of cases reported, number of people discharged and number of deaths in the top 5 states?
 3)How has the death ratio changed over the period of time (Month on Month change)?
 4)What graph can be used to visualize the answers to the following question?
+
+Code file contains the implementation description as comments.
